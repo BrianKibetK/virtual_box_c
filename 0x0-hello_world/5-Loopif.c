@@ -40,6 +40,6 @@ int main(void)
 	{
 		printf("Invalid entry please enter the right figure\n");
 	}
+	printf("Thanks for your time.\n");
 	return (0);
-
 }
